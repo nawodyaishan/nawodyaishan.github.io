@@ -1,16 +1,12 @@
-/* Cascading stylesheet for the website */
-
-/* Text inside these asterisks and slashes are comments for human */
-
-  a {
+a {
     color: #ADD8E6;
 
-    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    text-decoration: none; 
   }
 
   a:hover {
     color: red;
-    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    text-decoration: none; 
   }
 
   body {
@@ -18,9 +14,7 @@
     color: white;
     font-family: montserrat, Helvitica;
     text-align: center;
-    /* set the text color to black here */
-    /* set the font here */
-    /* set the text alignment here */
+
    }
 
   footer {
@@ -60,7 +54,6 @@
     margin-top: 3rem;
   }
 
-  /* this controls how the bullet points in the resume page looks */
   ul {
     display: table;
     margin: 0 auto;
