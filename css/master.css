@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 a {
     color: #ADD8E6;
 
@@ -12,7 +13,7 @@ a {
   body {
     background-color: black;
     color: white;
-    font-family: montserrat, Helvitica;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
 
    }
