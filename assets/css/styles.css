@@ -295,20 +295,29 @@ img {
 .skills__html {
   width: 95%;
 }
+.skills__jj {
+  width: 75%;
+}
 .skills__css {
   width: 85%;
 }
 .skills__js {
-  width: 75%;
+  width: 65%;
 }
 .skills__ux {
-  width: 85%;
+  width: 75%;
 }
 .skills__r {
   width: 55%;
 }
 .skills__py {
   width: 65%;
+}
+.skills__cc {
+  width: 55%;
+}
+.skills__db {
+  width: 60%;
 }
 .skills__img {
   border-radius: 0.5rem;
