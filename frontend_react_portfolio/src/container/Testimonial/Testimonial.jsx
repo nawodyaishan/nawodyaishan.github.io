@@ -31,7 +31,7 @@ const Testimonial = () => {
     return (
         
         <>
-        <h2 className="head-text">My <span>Volunteering</span> Work </h2>
+        <h2 className="head-text">Education & <span>Volunteering</span> Work </h2>
 
         <><h2></h2></>
             {testimonials.length && (
