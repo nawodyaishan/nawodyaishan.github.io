@@ -1,0 +1,11 @@
+.text {
+    font-family: Crete Round, serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 1);
+    text-transform: uppercase;
+    font-style: oblique;
+    text-decoration: none;
+    line-height: 2em;
+    letter-spacing: 6.9px;
+}
